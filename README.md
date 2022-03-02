@@ -1,7 +1,6 @@
 # Scoop Bucket Template
 
-<!-- Uncomment the following line after replacing placeholders -->
-<!-- [![Build Status](https://ci.appveyor.com/api/projects/status/<appveyor-badge-id>?svg=true)](https://ci.appveyor.com/project/<username>/<bucketname> "Build Status") [![Excavator](https://github.com/<username>/<bucketname>/actions/workflows/excavator.yml/badge.svg)](https://github.com/<username>/<bucketname>/actions/workflows/excavator.yml) -->
+[![Build Status](https://ci.appveyor.com/api/projects/status/hh22muaykird5rfo?svg=true)](https://ci.appveyor.com/project/forbjok/scoop-bucket "Build Status") [![Excavator](https://github.com/forbjok/scoop-bucket/actions/workflows/excavator.yml/badge.svg)](https://github.com/forbjok/scoop-bucket/actions/workflows/excavator.yml)
 
 Template bucket for [Scoop](https://scoop.sh), the Windows command-line installer.
 
