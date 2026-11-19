@@ -1,6 +1,6 @@
 {
     "version": "0.4.0",
-    "description": "fersk is a utility for propagating version numbers using methods such as regex replacement in files and templates.",
+    "description": "Fersk is a convenience utility for running a command (ex. a script) in a clean copy of the current git repository.",
     "homepage": "https://github.com/forbjok/fersk",
     "license": "MIT|Apache-2.0",
     "architecture": {
