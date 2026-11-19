@@ -1,16 +1,16 @@
 {
-    "version": "0.4.0",
+    "version": "0.4.1",
     "description": "Fersk is a convenience utility for running a command (ex. a script) in a clean copy of the current git repository.",
     "homepage": "https://github.com/forbjok/fersk",
     "license": "MIT|Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/forbjok/fersk/releases/download/v0.4.0/fersk-0.4.0-windows-x86_64.zip",
-            "hash": "d5e1a7c9a42082f66bfa6b4e431154a78fc1dde92bc1c0cd8195a9c990b79d07"
+            "url": "https://github.com/forbjok/fersk/releases/download/v0.4.1/fersk-0.4.1-windows-x86_64.zip",
+            "hash": "e88f44e8615386f328b47a186ef55ce050e88141d89c0043d5384271a2f7bc40"
         },
         "32bit": {
-            "url": "https://github.com/forbjok/fersk/releases/download/v0.4.0/fersk-0.4.0-windows-i686.zip",
-            "hash": "1b460954fba082e0941da2eaeee5ebaed4219379dae8c5185c74632f94b2289f"
+            "url": "https://github.com/forbjok/fersk/releases/download/v0.4.1/fersk-0.4.1-windows-i686.zip",
+            "hash": "8bcfd1e9ffd249a0ea72f12cb570b0849a13c23be75c4b99461c6e133a25b85c"
         }
     },
     "bin": "fersk.exe",
